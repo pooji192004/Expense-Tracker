@@ -30,6 +30,7 @@ Enter your choice (1-6):
  # How to Run
 Step 1 — Make sure Python is installed
 bashpython --version
+
 Step 2 — Run the file
 bashpython expense_tracker.py
 
